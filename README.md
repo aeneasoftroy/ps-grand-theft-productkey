@@ -1,5 +1,7 @@
 # ps-grand-theft-productkey
 
+![alt text](https://github.com/stephanvandekerkhof/ps-grand-theft-productkey/blob/master/grand-theft-productkey.png)
+
 This powershell / batch script can walk through a list of systems in your network and decode the Microsoft Windows ProductKeys.
 
 Keep in mind that you must be a member of the domain administrator group! This is a inventory tool for system administrators and can't be used unauthorized anyway.
