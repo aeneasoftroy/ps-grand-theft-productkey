@@ -20,6 +20,7 @@ Windows Server 2012
 
 Windows Server 2012 r2
 
+#HowTo use:
 
 1. Populate the file "Clients.txt" with the DNS names or IP addresses
 
