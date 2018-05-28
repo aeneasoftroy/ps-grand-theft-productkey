@@ -1,6 +1,6 @@
 # ps-grand-theft-productkey
 
-![alt text](https://github.com/stephanvandekerkhof/ps-grand-theft-productkey/blob/master/grand-theft-productkey.png)
+![alt text](https://github.com/aeneasoftroy/ps-grand-theft-productkey/blob/master/grand-theft-productkey.png)
 
 # About
 
@@ -40,4 +40,4 @@ Import-Module GTK.ps1
 
 5. Start the generated "CrawlCommand.ps1" in PowerShell AS DOMAIN ADMINISTRATOR
 
--- Stephan van de Kerkhof
+-- Stephan
