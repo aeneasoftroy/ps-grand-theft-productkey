@@ -40,4 +40,4 @@ Import-Module GTK.ps1
 
 5. Start the generated "CrawlCommand.ps1" in PowerShell AS DOMAIN ADMINISTRATOR
 
--- Stephan
+-- Steffan
